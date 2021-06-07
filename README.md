@@ -1,2 +1,2 @@
 # OpenGL
-Graphics
+Graphics Project
